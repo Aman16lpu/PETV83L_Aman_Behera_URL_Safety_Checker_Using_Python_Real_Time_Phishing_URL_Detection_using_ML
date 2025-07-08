@@ -54,7 +54,6 @@ The model uses the Phishing_Legitimate_full.csv dataset consisting of:
 You can enhance detection accuracy by adding more high-quality phishing samples.
 ________________________________________
 🧪 Sample Phishing URLs to Test
-http://free-login-verification-update-paypal.com/account/confirm
 http://secure-login.bankofamerica.com.login-update.verify-account.com/
 ________________________________________
 🧐 Machine Learning
