@@ -1,0 +1,2 @@
+# PETV83L_Aman_Behera_URL_Safety_Checker_Using_Python_Real_Time_Phishing_URL_Detection_using_ML
+Real-Time Phishing URL Detection using ML PhishAlert is a powerful, real-time phishing URL detection tool that uses a machine learning model integrated with a Google Chrome extension. It analyzes URLs based on handcrafted features and warns users before they land on potentially dangerous sites — helping to stay safe from phishing attacks.
