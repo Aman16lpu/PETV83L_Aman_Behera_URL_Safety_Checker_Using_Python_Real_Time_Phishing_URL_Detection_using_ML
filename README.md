@@ -55,6 +55,7 @@ You can enhance detection accuracy by adding more high-quality phishing samples.
 ________________________________________
 🧪 Sample Phishing URLs to Test
 http://secure-login.bankofamerica.com.login-update.verify-account.com/
+http://login-verification-update-bankofamerica.com/
 ________________________________________
 🧐 Machine Learning
 •	Algorithm: Random Forest Classifier
